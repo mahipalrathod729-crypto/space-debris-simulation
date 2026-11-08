@@ -1,6 +1,6 @@
 # Space Debris Simulation (LEO / MEO / GEO)
 
-An interactive 3D simulation of space debris density across Low Earth Orbit (LEO), Medium Earth Orbit (MEO), and Geostationary Orbit (GEO).
+An interactive 3D simulation of space debris synthetic simulation across Low Earth Orbit (LEO), Medium Earth Orbit (MEO), and Geostationary Orbit (GEO).
 
 Runs in Google Colab — lightweight (<2 MB) and GitHub-friendly.
 
